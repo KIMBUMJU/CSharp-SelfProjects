@@ -1,0 +1,10 @@
+C:\Users\bumju\source\repos\notepad_kbj20221228\bin\Debug\notepad_kbj20221228.exe.config
+C:\Users\bumju\source\repos\notepad_kbj20221228\bin\Debug\notepad_kbj20221228.exe
+C:\Users\bumju\source\repos\notepad_kbj20221228\bin\Debug\notepad_kbj20221228.pdb
+C:\Users\bumju\source\repos\notepad_kbj20221228\obj\Debug\notepad_kbj20221228.csproj.AssemblyReference.cache
+C:\Users\bumju\source\repos\notepad_kbj20221228\obj\Debug\notepad_kbj20221228.Properties.Resources.resources
+C:\Users\bumju\source\repos\notepad_kbj20221228\obj\Debug\notepad_kbj20221228.csproj.GenerateResource.cache
+C:\Users\bumju\source\repos\notepad_kbj20221228\obj\Debug\notepad_kbj20221228.csproj.CoreCompileInputs.cache
+C:\Users\bumju\source\repos\notepad_kbj20221228\obj\Debug\notepad_kbj20221228.exe
+C:\Users\bumju\source\repos\notepad_kbj20221228\obj\Debug\notepad_kbj20221228.pdb
+C:\Users\bumju\source\repos\notepad_kbj20221228\obj\Debug\notepad_kbj20221228.note.resources
